@@ -1,6 +1,7 @@
-<!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
-![Senanur Paksoy](https://user-images.githubusercontent.com/66176697/164076943-085ac5f7-ef43-4fea-a6df-e3ee06648a37.png)
+
+![imageedit_1_9793752199](https://user-images.githubusercontent.com/66176697/164078385-5a81278e-debe-40f5-921b-0ee6b3fee089.png)
+
 
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
