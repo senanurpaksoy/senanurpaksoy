@@ -27,7 +27,7 @@ My name is Senanur Paksoy and I'm a part time software engineer/full life studen
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=senanurpaksoy&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 <a href="https://github.com/senanurpaksoy/senanurpaksoy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SadeceAhmetFaruk&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=senanurpaksoy&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
                                  
   ![8bit-bit](https://user-images.githubusercontent.com/65506131/163702852-f771fe0a-5638-46f9-b23b-a60c58a3a1d3.gif)
