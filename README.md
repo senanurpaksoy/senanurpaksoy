@@ -50,7 +50,7 @@ My name is Senanur Paksoy and I'm a part time software engineer/full life studen
 
 <!-- links to your social media accounts -->
 
-[1]: https://twitter.com/ahm53310
+[1]: https://twitter.com/senanurrpaksoy
 [2]: https://github.com/senanurpaksoy
 [3]: https://tr.linkedin.com/in/senanur-paksoy-5a4718197
 
