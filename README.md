@@ -6,7 +6,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Senanur Paksoy and I'm a part time software engineer/full life student. I'm from Turkey, living in İstanbul.You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].🌱 I’m currently learning C# ve automation development.
+My name is Senanur Paksoy and I'm a part time software engineer/full student. I'm from Turkey, living in Hatay.You can find me on [![LinkedIn][3.2]][3].🌱 I’m currently learning java.
 
 
 ## 🔧 Technologies & Tools
