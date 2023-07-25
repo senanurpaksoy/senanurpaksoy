@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=senanurpaksoy&label=Profile%20views&color=0e75b6&style=flat" alt="senanurpaksoy" /> </p>
 
-- 🔭 I’m currently working on **Web Scraping**
+- 🔭 I’m currently working on **Machine Learning**
 
 - 🌱 I’m currently learning **Artificial Intelligence**
 
