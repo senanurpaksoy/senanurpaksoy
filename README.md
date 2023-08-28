@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **senapksy@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1sF9MHbq53q2ZY_wDDa3ZBKcUYQnP7CPM/view?usp=sharing](https://drive.google.com/file/d/1sF9MHbq53q2ZY_wDDa3ZBKcUYQnP7CPM/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1sF9MHbq53q2ZY_wDDa3ZBKcUYQnP7CPM/view?usp=sharing](https://drive.google.com/file/d/1q71wLtbkDrOcyzDYNWwe38poplF5Oxyy/view?usp=drive_link)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
